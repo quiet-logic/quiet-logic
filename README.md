@@ -7,7 +7,7 @@ Right now I'm working on:
 • Python fundamentals and practical problem-solving  
 • Command-line workflows, version control, and clean tooling  
 • Small scripts that support wellbeing, reflection, and quiet productivity  
-• Developing a portfolio through consistent projects, not empty theory
+• Developing a portfolio through consistent projects
 
 Current project:
 • **Calm Log** — a lightweight CLI journaling tool that logs moments of calm in JSONL.
