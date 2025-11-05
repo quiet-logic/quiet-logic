@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Steve
 
-<!--
-**quiet-logic/quiet-logic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently exploring software development, aiming at building a more creative and balanced career after years in a different professional world.
 
-Here are some ideas to get you started:
+I'm learning with intention — not rushing, not scrambling — just steady, focused progress and hands-on practice. I care about clarity, calm systems, and technology that genuinely helps people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm working on:
+
+• Python fundamentals and practical problem-solving  
+• Command-line workflows, version control, and clean tooling  
+• Small scripts that support wellbeing, reflection, and quiet productivity  
+• Developing a portfolio through consistent projects, not empty theory
+
+Current project:
+• **Calm Log** — a lightweight CLI journaling tool that logs moments of calm in JSONL.
+
+What to expect here:
+• Real learning — visible progress over time  
+• Straightforward tools, built with care  
+• A focus on clarity, readability, and steady craft  
+• Work that reflects curiosity, not noise
+
+I'm here to build a thoughtful technical foundation and explore where that leads — ideally toward work that blends engineering, creativity, and calm technology.
